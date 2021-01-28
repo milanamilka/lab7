@@ -1,0 +1,26 @@
+# Common Project info
+PROJECT_NAME = "Лабораторна робота 7"
+PROJECT_BRIEF = "Найти НОД двух заданых чисел"
+PROJECT_NUMBER = 7
+
+## output options
+OUTPUT_DIRECTORY = ./dist
+OUTPUT_LANGUAGE = Russian
+DOXYFILE_ENCODING = UTF-8
+
+## input options
+INPUT_ENCODING = UTF-8
+RECURSIVE = YES
+FILE_PATTERNS = *.c *.h *.md
+###########
+#USE_MDFILE_AS_MAINPAGE = README.md
+###########
+
+
+
+
+
+
+
+
+
